@@ -10,6 +10,7 @@ pyttsx3
 ```
 ## You can install python modules by using the following command:
 ```pip install <module-name>```
+
 ##To run just open the FileManager.py with python.exe
 
 ## Functions you can perform on files/folders
